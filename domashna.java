@@ -27,14 +27,14 @@ public class domashna {
     }
     public static void menu(int[] numbers,int n,Scanner word) {
         System.out.println("Enter a number to chose one of the options");
-        System.out.println("1.Sort the numbers(ascending)");//+
-        System.out.println("2.Sort the numbers(descending)");//+
-        System.out.println("3.Check a number and it position");//+
+        System.out.println("1.Sort the numbers(ascending)");
+        System.out.println("2.Sort the numbers(descending)");
+        System.out.println("3.Check a number and it position");
         System.out.println("4.Randomize the numbers");
-        System.out.println("5.Sum of the all the numbers");//+
-        System.out.println("6.Show the biggest number");//+
-        System.out.println("7.Show the smallest number");//+
-        System.out.println("8.Show the average of the numbers");//+
+        System.out.println("5.Sum of the all the numbers");
+        System.out.println("6.Show the biggest number");
+        System.out.println("7.Show the smallest number");
+        System.out.println("8.Show the average of the numbers");
         System.out.println("9.Check for symmetry for the numbers");
         System.out.println("10.Show the numbers in reverse order");
         System.out.println("11.Show the numbers");
